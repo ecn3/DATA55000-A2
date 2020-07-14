@@ -1,0 +1,5 @@
+Week 2 Assignment - Jupyter Notebook
+Run all of the code for the Week 2 notebook, make the necessary modifications to the bottom of the notebook. You will also need to install TextBlob for next week, instructions are in the notebook. Save the results as an HTML file, zip it, and turn it in.
+
+Due Tueday of Week 3 by 11:59PM CST
+
